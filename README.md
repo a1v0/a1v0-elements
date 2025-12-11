@@ -8,3 +8,4 @@ Contains logos and other elements for the a1v0 brand
 - Website logo, with transparent corners
 - Website logo, transparent corners, but bigger A
 - Plain logo SVG
+- `.ico` icon
